@@ -1,3 +1,4 @@
+!task1
 ! program epsilon
 !   implicit none
 !   real :: eps
@@ -17,6 +18,11 @@
 
 
 ! end program epsilon
+
+
+
+
+!task2
 
 ! program epsilon
 !   implicit none
@@ -39,6 +45,10 @@
 ! end program epsilon
 
 
+
+
+!task3
+
 program zero 
 implicit none
 real(8) :: z
@@ -55,4 +65,9 @@ print *, 'last zero', last_z
 print *, 'zero',z
 print *, 'b', b
 End program zero
+
+
+
+!task4
+
 

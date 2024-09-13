@@ -1,6 +1,5 @@
 !task1
 ! program epsilon
-! implicit none
 ! real :: eps
 ! integer :: n 
 ! n = 0
@@ -24,7 +23,6 @@
 !task2
 
 ! program epsilon
-! implicit none
 ! real(8) :: eps
 ! integer :: n 
 ! n = 0
@@ -48,7 +46,6 @@
 !task3
 
 program zero 
-implicit none
 real(8) :: z
 integer ::  b 
 real :: last_Z
@@ -72,7 +69,6 @@ end program zero
 
 
 !task4
-! program infinity
 ! implicit none 
 ! real(8) :: inf
 ! integer :: n
